@@ -14,7 +14,7 @@ index.js is a Lambda function to be used as a custom action in CodePipeline for 
 
 1. Clone this repo
 
-  `git clone https://github.com/rizavico/StaticS3Deploy.git`
+  `git clone https://github.com/lcancelasp/StaticS3Deploy.git`
 
 2. cd to the cloned repo:
 
